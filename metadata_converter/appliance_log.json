@@ -1,0 +1,6809 @@
+{
+  "MEDAL-1": {
+    "circuit_id": "L1",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": "MEDAL Prototype",
+          "class_name": "Dev Board",
+          "power": "5W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MEDAL Prototype",
+          "class_name": "Dev Board",
+          "power": "5W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MEDAL Prototype",
+          "class_name": "Dev Board",
+          "power": "5W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "HSM Shredstar",
+          "class_name": "Paper Shredder",
+          "power": "250W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-06T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Mannesmann M92577",
+          "class_name": "Multi-Tool",
+          "power": "135W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-07T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-08T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Heller ASY 1507",
+          "class_name": "Space Heater",
+          "power": "1500W"
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-06-12T11-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Eurom VS 16",
+          "class_name": "Fan",
+          "power": "45W"
+        },
+        "socket_3": {
+          "appliance_name": "Kraftmax BC4000 Pro",
+          "class_name": "Battery Charger",
+          "power": "18W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-06-12T12-00-00"
+      }
+    ]
+  },
+  "MEDAL-10": {
+    "circuit_id": "L2",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "DJI Phantom 3",
+          "class_name": "Battery Charger",
+          "power": "100W"
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2016-12-01T12-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Philips HF3430",
+          "class_name": "Daylight",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Hama 0091321",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Lenovo X230 i5",
+          "class_name": "Laptop",
+          "power": "170W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell P2210",
+          "class_name": "Monitor",
+          "power": "22W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-11": {
+    "circuit_id": "L2",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-23T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-05-12T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_4": {
+          "appliance_name": "HP Laserjet Pro 400",
+          "class_name": "Printer",
+          "power": "425W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo Carbon X1",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-12": {
+    "circuit_id": "L1",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "generic",
+          "class_name": "Laptop",
+          "power": "100W"
+        },
+        "socket_5": {
+          "appliance_name": "Epson EB-65950",
+          "class_name": "Projector",
+          "power": "450W"
+        },
+        "socket_6": {
+          "appliance_name": "Projecta DC 485",
+          "class_name": "Screen Motor",
+          "power": "210W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-13": {
+    "circuit_id": "L2",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2016-10-21T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2016-10-24T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2016-10-28T09-25-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Sony Ericsson EP 800",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2017-01-13T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2017-02-10T15-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-04-13T13-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "timestamp": "2017-04-24T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Clatronic WK 3445",
+          "class_name": "Kettle",
+          "power": "2000W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell XPS13",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-14": {
+    "circuit_id": "L2",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-11-04T15-10-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2016-11-07T14-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "generic",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Chromecast",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-03-13T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Chromecast",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-18T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Chromecast",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-04-19T10-35-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Chromecast",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Lenovo L540",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Chromecast",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-15": {
+    "circuit_id": "L3",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD813ZM",
+          "class_name": "USB Charger",
+          "power": "5W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-10-02T16-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Apple MD813ZM",
+          "class_name": "USB Charger",
+          "power": "5W"
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-10-11T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Apple MD813ZM",
+          "class_name": "USB Charger",
+          "power": "5W"
+        },
+        "timestamp": "2016-10-22T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-04-03T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-07T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-04-10T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-11T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-04-12T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-13T00-01-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T530",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-2": {
+    "circuit_id": "L1",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Severin WK3364",
+          "class_name": "Kettle",
+          "power": "1800W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-11-21T11-15-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Mannesmann M92577",
+          "class_name": "Multi-Tool",
+          "power": "135W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-11-21T11-18-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-11-21T11-20-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "Lenovo B560",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-02-27T10-25-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "Lenovo B560",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Aukru BS-522",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "VOV VTS-1641",
+          "class_name": "Fan",
+          "power": "50W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell UP2716D",
+          "class_name": "Monitor",
+          "power": "45W"
+        },
+        "socket_6": {
+          "appliance_name": "Dell E6540",
+          "class_name": "Laptop",
+          "power": "130W"
+        },
+        "timestamp": "2017-06-26T11-15-00"
+      }
+    ]
+  },
+  "MEDAL-3": {
+    "circuit_id": "L1",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Apple MD836ZM",
+          "class_name": "USB Charger",
+          "power": "12W"
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Air",
+          "class_name": "Laptop",
+          "power": "45W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-10-04T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-10-05T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "generic",
+          "class_name": "Electric Toothbrush",
+          "power": "5W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T450",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-06-05T11-30-00"
+      }
+    ]
+  },
+  "MEDAL-4": {
+    "circuit_id": "L3",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-01-30T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-25T07-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-26T07-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo T420",
+          "class_name": "Laptop",
+          "power": "90W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-5": {
+    "circuit_id": "L3",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_2": {
+          "appliance_name": "Sony Vaio VGN FW54M",
+          "class_name": "Laptop",
+          "power": "92W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-11-07T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-11-10T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-11-14T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-12-09T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-6": {
+    "circuit_id": "L2",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Sony",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Samsung Travel",
+          "class_name": "USB Charger",
+          "power": "10W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2711",
+          "class_name": "Monitor",
+          "power": "133W"
+        },
+        "socket_6": {
+          "appliance_name": "Lenovo X230 i7",
+          "class_name": "Laptop",
+          "power": "65W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-7": {
+    "circuit_id": "L1",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Schenker W502",
+          "class_name": "Laptop",
+          "power": "180W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Schenker W502",
+          "class_name": "Laptop",
+          "power": "180W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-10-12T14-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Schenker W502",
+          "class_name": "Laptop",
+          "power": "180W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-11-16T10-45-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-02-23T17-15-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "Dell T3600",
+          "class_name": "PC",
+          "power": "635W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "Dell Optiplex 7040",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_4": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "inateck UC2001",
+          "class_name": "USB Charger",
+          "power": "15W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-8": {
+    "circuit_id": "L3",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-10T18-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-02-23T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-02-24T14-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-13T10-45-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "custom built",
+          "class_name": "PC",
+          "power": "1200W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 15'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "85W"
+        },
+        "socket_5": {
+          "appliance_name": "Dell U2713Hb",
+          "class_name": "Monitor",
+          "power": "130W"
+        },
+        "socket_6": {
+          "appliance_name": "Tegra Jetson",
+          "class_name": "Dev Board",
+          "power": "90W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  },
+  "MEDAL-9": {
+    "circuit_id": "L3",
+    "entries": [
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13'' Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-09-28T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-10-17T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-10-17T14-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-10-20T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-10-21T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "FPGA Xilinx ML505",
+          "class_name": "Dev Board",
+          "power": "30W"
+        },
+        "timestamp": "2016-10-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-11-21T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-02T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2016-12-23T09-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-10T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-12T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-18T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-19T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-27T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-01-31T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-01T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-02T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-03T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "timestamp": "2017-02-09T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-10T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-14T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_5": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-15T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": "Fujitsu-Siemens P17-1",
+          "class_name": "Monitor",
+          "power": "36W"
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-17T17-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": "MacBook Pro 13 Mid-2014",
+          "class_name": "Laptop",
+          "power": "60W"
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-27T08-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "ASUS N750JV",
+          "class_name": "Laptop",
+          "power": "120W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-02-28T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "ASUS N750JV",
+          "class_name": "Laptop",
+          "power": "120W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-03-09T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": "ASUS N750JV",
+          "class_name": "Laptop",
+          "power": "120W"
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-03-14T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": "ASUS N750JV",
+          "class_name": "Laptop",
+          "power": "120W"
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-03-15T10-00-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "timestamp": "2017-03-17T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "timestamp": "2017-04-13T10-45-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "timestamp": "2017-04-21T18-30-00"
+      },
+      {
+        "socket_1": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_2": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_3": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_4": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_5": {
+          "appliance_name": null,
+          "class_name": null,
+          "power": null
+        },
+        "socket_6": {
+          "appliance_name": "Dell OptiPlex 9020",
+          "class_name": "PC",
+          "power": "65W"
+        },
+        "timestamp": "2017-06-09T14-30-00"
+      }
+    ]
+  }
+}

@@ -1,0 +1,19 @@
+medal:
+  model: Medal
+  measurements:
+    - physical_quantity: current
+    - {physical_quantity: power, type: active}
+    - {physical_quantity: power, type: apparent}
+    - physical_quantity: voltage
+  sample_period: 1
+  max_sample_period: 2
+
+clear:
+  model: CLEAR
+  measurements:
+    - physical_quantity: current
+    - {physical_quantity: power, type: active}
+    - {physical_quantity: power, type: apparent}
+    - physical_quantity: voltage
+  sample_period: 1
+  max_sample_period: 2
